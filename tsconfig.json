@@ -1,3 +1,2 @@
 {
-  "extends": "./.starters/default/.nuxt/tsconfig.json"
 }

@@ -1,3 +1,4 @@
 packages:
-  - ".starters/default"
+  - ".starters/ru"
+  - ".starters/en"
   - "./"

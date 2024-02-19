@@ -17,11 +17,16 @@
     "tokens.config.ts"
   ],
   "scripts": {
-    "prepare": "nuxi prepare && nuxi prepare .starters/default",
-    "dev": "nuxi dev .starters/default",
-    "build": "nuxi build .starters/default",
-    "generate": "nuxi generate .starters/default",
-    "preview": "nuxi preview .starters/default",
+    "prepare:ru": "nuxi prepare && nuxi prepare .starters/ru",
+    "dev:ru": "nuxi dev .starters/ru",
+    "build:ru": "nuxi build .starters/ru",
+    "generate:ru": "nuxi generate .starters/ru",
+    "preview:ru": "nuxi preview .starters/ru",
+    "prepare:en": "nuxi prepare && nuxi prepare .starters/en",
+    "dev:en": "nuxi dev .starters/en",
+    "build:en": "nuxi build .starters/en",
+    "generate:en": "nuxi generate .starters/en",
+    "preview:en": "nuxi preview .starters/en",
     "lint": "eslint .",
     "release": "release-it"
   },
