@@ -4,6 +4,7 @@ export default defineNuxtConfig({
 
   modules: [
     '@nuxtjs/robots',
+    '@nuxtjs/sitemap',
     // https://github.com/nuxt-modules/plausible
     '@nuxtjs/plausible',
     // https://github.com/nuxt/devtools
